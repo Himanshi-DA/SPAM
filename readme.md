@@ -22,3 +22,8 @@ This project builds a deep learning model using pre-trained GloVe word embedding
 
 ```bash
 pip install tensorflow pandas scikit-learn
+⚠️ The training dataset `train.csv` (118 MB) is too large for GitHub.
+Please download it from the official project link:
+
+🔗 [Download train.csv from Dropbox](https://www.dropbox.com/sh/kpf9z73woodfssv/AAAw1_JIzpuVvwteJCma0xMla?dl=0)
+
